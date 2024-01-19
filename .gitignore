@@ -2,7 +2,9 @@
 # ignore folders
 venv/*
 venv
+data
+data/*
 
 
 
-$ ignore files
+# ignore files
