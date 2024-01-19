@@ -1,0 +1,8 @@
+
+# ignore folders
+venv/*
+venv
+
+
+
+$ ignore files
